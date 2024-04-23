@@ -1,6 +1,19 @@
      
-            h1 {
+         body {
+            background: #fff9f9;
+        }
+            
+            
+        h1 {
         text-align: center;
         color: red;
         }
   
+     
+
+        img {
+            width: 30%;
+            margin: 0 auto;
+            border-radius: 20px;
+            display: block;
+        }
